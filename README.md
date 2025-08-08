@@ -4,7 +4,7 @@ This repository discuss key value databases.
 
 ## Topics
 
-*[Mongo DB](./mongo/docs/mongo.md)
+* [Mongo DB](./mongo/mongo.md)
 
 ## Disclaimer
 
